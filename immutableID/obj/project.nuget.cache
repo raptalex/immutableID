@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Vl8uDCwXU9sz/N2ZHASkCbqELMptlXyiyd/Q4h1B7rZPvw8+IKFjyE/CDAbrwrX2+wQpWCC1GsyH/XEdSUs0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arapt\\Desktop\\programming\\misc\\dpmxtract\\immutableID\\immutableID\\immutableID.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\arapt\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
